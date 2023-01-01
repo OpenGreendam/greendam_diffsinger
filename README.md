@@ -1,4 +1,4 @@
-# 绿坝子Nature（Diffsinger）
+# 绿坝子Nature（DiffSinger）
 
 绿坝子Nature是由绿坝娘相关同人爱好者社区协力制作的AI模型。
 
