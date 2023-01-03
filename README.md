@@ -21,3 +21,22 @@
 此过程可能用到修改版的 X Studio 1.9.2，可在 DiffSinger 合成讨论群中获得。（QQ群：907879266）
 
 大约在 23 年年中会有社区自制的编辑器，届时可在编辑器中直接调教、编辑工程。
+
+# 分发许可（LICENSE）
+
+配布协议遵照*GPLv2*和*UTAU中华组wiki公共使用规约*，其中若*有冲突则以GPLv2为准*。
+
+UTAU中华组wiki公共使用规约：https://utauchn.huijiwiki.com/wiki/%E5%85%AC%E5%85%B1%E8%A7%84%E7%BA%A6
+
+The distribution protocol follows the *GPLv2* and the *UTAU China Group wiki public license*, where *in case of conflict, GPLv2 prevails*.
+
+UTAU China Group wiki public license: https://utauchn.huijiwiki.com/wiki/%E5%85%AC%E5%85%B1%E8%A7%84%E7%BA%A6
+
+
+如您不通中文，请勿使用本模型。
+
+If you cannot read Chinese, please do not use this model.
+
+中国語が読めない方は、この機種を使用しないでください。
+
+중국어를 읽을 수 없다면 이 모델을 사용하지 마십시오.
